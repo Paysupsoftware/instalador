@@ -23,11 +23,11 @@ print_banner() {
 
 printf "${CYAN_LIGHT}";
 
-printf ${CYAN_LIGHT}"    _____  __   _____ ____  __  __ \n";
-printf ${CYAN_LIGHT}"   |__  / /_ | / ____|  _ \|  \/  |\n";
+printf ${CYAN_LIGHT}"    _____  __   ____  ____  __  __ \n";
+printf ${CYAN_LIGHT}"   |__  / /_ | / ___ |  _ \|  \/  |\n";
 printf ${CYAN_LIGHT}"     / /   | || |    | |_) | \  / |\n";
-printf ${CYAN_LIGHT}"    / /_   | || |    |  _ <| |\/| |\n";
-printf ${CYAN_LIGHT}"   /____|  |_||_|    |_| \_\_|  |_|\n";
+printf ${CYAN_LIGHT}"    / /_   | || |___ |  _ <| |\/| |\n";
+printf ${CYAN_LIGHT}"   /____|  |_||_____ |_| \_\_|  |_|\n";
 printf ${CYAN_LIGHT}"                                   \n";
  
 
